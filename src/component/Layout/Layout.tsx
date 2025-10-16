@@ -1,4 +1,4 @@
-import { Outlet, useLocation } from "react-router-dom";
+import { Outlet, useLocation } from "react-router";
 import Nav from "../Common/Nav";
 
 const Layout: React.FC = () => {
