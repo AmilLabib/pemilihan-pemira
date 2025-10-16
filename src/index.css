@@ -1,0 +1,17 @@
+@import "tailwindcss";
+
+:root {
+  --font-display: "League Spartan", system-ui, "Segoe UI", "Helvetica Neue",
+    Arial, "Noto Sans", "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol";
+}
+
+.font-display {
+  font-family: var(--font-display) !important;
+}
+
+.font-poppins {
+  font-family: "Poppins", sans-serif;
+}
+.font-league {
+  font-family: "League Spartan", sans-serif;
+}
